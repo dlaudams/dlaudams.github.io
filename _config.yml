@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+title: Daniel Laudams
+email: daniel@laudams.net
+description: >-
+  This is the personal blog of Daniel Laudams.
+github_username:  dlaudams
+linkedin_username: daniel-laudams
+
+markdown: kramdown
+#theme: jekyll-theme-slate
+theme: minima
+plugins:
+  - jekyll-feed
