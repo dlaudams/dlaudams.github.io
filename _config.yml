@@ -5,8 +5,15 @@ description: >-
 github_username:  dlaudams
 linkedin_username: daniel-laudams
 
+timezone: Australia/Sydney
+
 markdown: kramdown
 #theme: jekyll-theme-slate
 theme: minima
 plugins:
   - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
