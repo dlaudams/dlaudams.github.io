@@ -9,3 +9,7 @@
 [GopherCon Europe 2022: Michael Knyszek - Respecting Memory Limits In Go](https://www.youtube.com/watch?v=07wduWyWx8M)
 
 [GopherCon 2025: Advancing Go Garbage Collection with Green Tea - Michael Knyszek](https://www.youtube.com/watch?v=gPJkM95KpKo)
+
+## Go Memory Allocator
+
+<https://internals-for-interns.com/posts/go-memory-allocator/>
